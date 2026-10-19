@@ -1,2 +1,3 @@
 # Mindsense-AI-Mental-Well-Being-app-
-This is a project I was thinking to make for a long time where the fast modern world have left many of us with mental health which have rarely becomes the talk of the day,or for that matter ever discussed,but sometimes we do need a companion to hear us out,keep an ear,this is currently the sole objective of this app for now,will be coming up with more features as I go
+This is a project I was thinking to make for a long time where the fast modern world have left many of us with mental health which have rarely becomes the talk of the day,or for that matter ever discussed,but sometimes we do need a companion to hear us out,keep an ear,this is currently the sole objective of this app for now,will be coming up with more features as I go and hopefully within a short time will publish it in GOOGLE PLAY Store feel free to download this and use it this will just a v_1 of this architecture and feedbacks about
+it are always welcomed
