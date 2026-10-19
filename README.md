@@ -1,2 +1,2 @@
 # Mindsense-AI-Mental-Well-Being-app-
-This is one of the projects I really wanted to do for a long time,as a person suffering from mental health issues,I found that various people around the world are also silently suffering from such disease while this app does not intend to diagnose mental health diseases but is intended to atleast make people feel better and find a hearing ear
+This is a project I was thinking to make for a long time where the fast modern world have left many of us with mental health which have rarely becomes the talk of the day,or for that matter ever discussed,but sometimes we do need a companion to hear us out,keep an ear,this is currently the sole objective of this app for now,will be coming up with more features as I go
